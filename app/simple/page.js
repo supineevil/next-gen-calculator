@@ -1,7 +1,7 @@
 'use client'
-import React ,{useState} from "react"
+import {useState} from "react"
 import Link from "next/link"
-function page() {
+function Page() {
   
   const[res,setRes]=useState("")
   const handleClick = e =>setRes(res+e.target.id)
@@ -56,4 +56,4 @@ function page() {
   )
 }
 
-export default page
+export default Page
