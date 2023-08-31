@@ -19,7 +19,7 @@ function Page() {
   }
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-purple-700 p-10 space-y-5">
-      <div><p className="text-2xl font-extrabold text-purple-50 font-serif"> Coder&apos;s Next Calculator </p></div>
+      <div><p className="text-2xl font-extrabold text-purple-50 font-serif"> Coders Next Calculator </p></div>
       <div className="calculator">
         <input className="input" type="text" value={res} disabled/>
         <div className="buttons">
