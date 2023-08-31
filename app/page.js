@@ -7,7 +7,7 @@ export default function Home() {
           <div className='font-bold text-lg'> Next-Gen-Calculator</div>
           <div className='flex flex-col items-center space-y-5'>
           <Link href='/simple'><div className='bg-purple-500 cursor-pointer px-3 py-2 rounded-3xl text-white'> Simple Calculator </div></Link> 
-          <Link href='/coder'> <div className='bg-purple-500 cursor-pointer px-3 py-2 rounded-3xl text-white'>Coder's Calculator </div></Link>
+          <Link href='/coder'> <div className='bg-purple-500 cursor-pointer px-3 py-2 rounded-3xl text-white'>Coder&apos;s Calculator </div></Link>
           </div>
         </div>
     </main>
