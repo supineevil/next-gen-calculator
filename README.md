@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js & Tailwind CSS](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -32,3 +32,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+![cal](https://github.com/supineevil/next-gen-calculator/assets/75155924/32f204ab-81d8-4d7f-8738-dd25db665312)
+
+![p1](https://github.com/supineevil/next-gen-calculator/assets/75155924/acabd190-6f88-4bf5-8a0d-a848c21489ae)
+
+![p2](https://github.com/supineevil/next-gen-calculator/assets/75155924/e75eaebb-fafb-4bf9-acb6-f470e73e24ef)
+
